@@ -1,4 +1,12 @@
 # 2D-Platformer
 project 4 for MSCH-c220
+## Implementation
 
-created by He Ma, Oct 17
+## What Makes this a Game?
+
+## References
+
+## Future Development
+
+## Created by
+He Ma, Oct 17
